@@ -79,7 +79,7 @@ how filters modify photos.
 
 Note: This app only works on a physical device, simulators lack the specs required to run this app.
 
-| Choose                                      | Select                                         |  Filter                                                         | 
-:--------------------------------------------:|:----------------------------------------------:|:---------------------------------------------------------------:|
-| Choose any photo from you phone             | Select a filter you'd like to try out.         | What the filter do its work, increase or decrease the intensity |
-| ![Photo](Instafilter/Images/Select.png).    | ![Filters](Instafilter/Images/Choose.png)      | ![Intensity](Instafilter/Images/Filter.png)  |
+| Choose                                      | Select                                         |  Filter                                           | 
+:--------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|
+| Choose any photo from you phone             | Select a filter you'd like to try out.         |  Increase or decrease the intensity of the filter |
+| ![Photo](Instafilter/Images/Select.png).    | ![Filters](Instafilter/Images/Choose.png)      | ![Intensity](Instafilter/Images/Filter.png)       |
