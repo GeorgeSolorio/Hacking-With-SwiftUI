@@ -1,7 +1,7 @@
 # Hacking-With-SwiftUI
 
 ## About
-A set of projects based on Paul Hudson's [Hacking with iOS SwiftUI tutorials](https://www.hackingwithswift.com/books/ios-swiftui)
+A set of one day projects based on Paul Hudson's [Hacking with iOS SwiftUI tutorials](https://www.hackingwithswift.com/books/ios-swiftui)
 
 ## Learning Objectives
 * Gain an understanding of Imperative vs Declerative programming
