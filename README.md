@@ -52,8 +52,6 @@ order, place your order and we'll deliver it to your place!
 | Place your order of cupcakes.          |  Select your favorite flavor                 |  Let us know where you'd like it to be delivered | Obtain a summary of your order           |
 |![Oder](CupcakeCorner/Images/StartOrder.png)| ![Select](CupcakeCorner/Images/ChooseFlavor.png) | ![Deliver](CupcakeCorner/Images/Info.png)            | ![Summary](CupcakeCorner/Images/Complete.png)|
 
-
-
 ## Moonshot
 
 Many people have been inspired by Nasa's space expeditions. With this app, you can see a list of Nasa's lunar missions, the team that followed it and information about each austronauts accomplishments. 
@@ -61,7 +59,7 @@ Many people have been inspired by Nasa's space expeditions. With this app, you c
 | List                                        | Team                                           | Member                                         | 
 :--------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|
 | Take a look at all of Nasa's lunar missions | See the team that accomplished those missions  |  Get more information about the austronauts!   |
-| ![LunarLIst](MoonShot/Images/List.png)      | ![Team](MoonShot/Images/LisBadget.png)         | ![Person](MoonShot/Images/Person.png)          |
+| ![LunarLIst](MoonShot/Images/List.png)      | ![Team](MoonShot/Images/Badge.png)         | ![Person](MoonShot/Images/Person.png)          |
 
 ## Word Scramble
 
