@@ -69,4 +69,17 @@ Challenge your friends and see who can get the most
 | Challange                                   | Attempt                                        | Change                                            | 
 :--------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|
 | See how many anagrams you can make          | Make sure your words match a possible anagram  | Want to try out another word, just press new word |
-| ![Challenge](Word%20Scramble/Images/Game.png)| ![attempt](Word%20Scramble/Images/Guess.png)    | ![Change](Word%20Scramble/Images/NewGuess.png)     |
+| ![Challenge](Word%20Scramble/Images/Game.png)| ![attempt](Word%20Scramble/Images/Guess.png)    | ![Change](Word%20Scramble/Images/NewGuess.png)  |
+
+
+## InstaFilter
+
+Do you like playing with filters? This app allows you to chose any of your photos, apply a filter and scale the intensity. It's great fun to experiment and see
+how filters modify photos. 
+
+Note: This app only works on a physical device, simulators lack the specs required to run this app.
+
+| Choose                                      | Select                                         |  Filter                                                         | 
+:--------------------------------------------:|:----------------------------------------------:|:---------------------------------------------------------------:|
+| Choose any photo from you phone             | Select a filter you'd like to try out.         | What the filter do its work, increase or decrease the intensity |
+| ![Photo](Instafilter/Images/Select.png).    | ![Filters](Instafilter/Images/Choose.png)      | ![Intensity](Instafilter/Images/Filter.png)  |
