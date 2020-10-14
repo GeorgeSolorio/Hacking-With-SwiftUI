@@ -50,6 +50,6 @@ order, place your order and we'll deliver it to your place!
 | Place order                            | Select options                               | Where do we deliver?                             | Complete your order                      |
 :---------------------------------------:|:--------------------------------------------:|:------------------------------------------------:|:----------------------------------------:|
 | Place your order of cupcakes.          |  Select your favorite flavor                 |  Let us know where you'd like it to be delivered | Obtain a summary of your order           |
-|![Oder](CupcakeCorner/Images/StartOrder)| ![Select](CupcakeCorner/Images/ChooseFlavor) | ![Deliver](CupcakeCorner/Images/Info)            | ![Summary](CupcakeCorner/Images/Complete)|
+|![Oder](CupcakeCorner/Images/StartOrder.png)| ![Select](CupcakeCorner/Images/ChooseFlavor.png) | ![Deliver](CupcakeCorner/Images/Info.png)            | ![Summary](CupcakeCorner/Images/Complete.png)|
 
 
