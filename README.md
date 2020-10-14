@@ -53,3 +53,22 @@ order, place your order and we'll deliver it to your place!
 |![Oder](CupcakeCorner/Images/StartOrder.png)| ![Select](CupcakeCorner/Images/ChooseFlavor.png) | ![Deliver](CupcakeCorner/Images/Info.png)            | ![Summary](CupcakeCorner/Images/Complete.png)|
 
 
+
+## Moonshot
+
+Many people have been inspired by Nasa's space expeditions. With this app, you can see a list of Nasa's lunar missions, the team that followed it and information about each austronauts accomplishments. 
+
+| List                                        | Team                                           | Member                                         | 
+:--------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|
+| Take a look at all of Nasa's lunar missions | See the team that accomplished those missions  |  Get more information about the austronauts!   |
+| ![LunarLIst](MoonShot/Images/List.png)      | ![Team](MoonShot/Images/LisBadget.png)         | ![Person](MoonShot/Images/Person.png)          |
+
+## Word Scramble
+
+Want to test your anagram skills? This app challanges you to make as many anagrams as possible. Keep track of your score, letter count and entered anagrams list.
+Challenge your friends and see who can get the most
+
+| Challange                                   | Attempt                                        | Change                                            | 
+:--------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|
+| See how many anagrams you can make          | Make sure your words match a possible anagram  | Want to try out another word, just press new word |
+| ![Challenge](Word\ Scramble/Images/Game.png)| ![attempt](Word\ Scramble/Images/Guess.png)    | ![Change](Word\ Scramble/Images/NewGuess.png)     |
