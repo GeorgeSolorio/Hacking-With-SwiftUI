@@ -71,4 +71,4 @@ Challenge your friends and see who can get the most
 | Challange                                   | Attempt                                        | Change                                            | 
 :--------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|
 | See how many anagrams you can make          | Make sure your words match a possible anagram  | Want to try out another word, just press new word |
-| ![Challenge](Word\ \Scramble/Images/Game.png)| ![attempt](Word\ \Scramble/Images/Guess.png)    | ![Change](Word\ \Scramble/Images/NewGuess.png)     |
+| ![Challenge](Word Scramble/Images/Game.png)| ![attempt](Word Scramble/Images/Guess.png)    | ![Change](Word Scramble/Images/NewGuess.png)     |
