@@ -40,7 +40,7 @@ Apple's map view. Pin down any place of your interest, comment your goal for the
 | Add                                | Track                                    | Remove                                         | View                                   |
 :-----------------------------------:|:----------------------------------------:|:----------------------------------------------:|:--------------------------------------:|
 | Pin a place of your interest       | Keep track of all your bucket list places|  Change of mind? no problem, you can delete it!| Take a look at a list of nearby places |
-|![Pin](BucketList/Images/Pin.png)   | ![See](BucketList/Images/Track.png)      | ![Delete](BucketList/Images/Edit.png)          | ![Nearby](BucketList/Images/Nearby.png). |
+|![Pin](BucketList/Images/Pin.png)   | ![See](BucketList/Images/Track.png)      | ![Delete](BucketList/Images/Edit.png)          | ![Nearby](BucketList/Images/Nearby.png) |
 
 ## [CupcakeCorner](https://github.com/GeorgeSolorio/Hacking-With-SwiftUI/tree/master/CupcakeCorner/CupcakeCorner)
 
@@ -77,7 +77,7 @@ Challenge your friends and see who can get the most
 Do you like playing with filters? This app allows you to chose any of your photos, apply a filter and scale the intensity. It's great fun to experiment and see
 how filters modify photos. 
 
-Note: This app only works on a physical device, simulators lack the specs required to run this app.
+**Note: This app only works on a physical device, simulators lack the specs required to run this app.**
 
 | Choose                                      | Select                                         |  Filter                                           | 
 :--------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|
